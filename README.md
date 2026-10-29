@@ -25,6 +25,7 @@ Também sou atleta paralímpico do arremesso de peso e lançamento de disco, e u
 
 | Projeto | O que é | Stack |
 |---|---|---|
+| [Relatório de Backlog Automatizado](https://github.com/GOS-briel/automacao-relatorio-backlog) | Pipeline que transforma os exports diários do CRM num relatório executivo: valida a entrada (e para se algo faltar), classifica por canal com regras em YAML, concilia entradas e fechados e gera o HTML. Eliminou ~1h30 de trabalho manual por dia. | Python, pandas, Jinja2, pytest, GitHub Actions |
 | [Finanças App](https://github.com/GOS-briel/financas-app) | Controle financeiro pessoal: importa fatura em PDF, aprende categorias e controla tetos por categoria. API REST documentada, 20+ decisões registradas em ADRs, cobertura de testes ≥ 80% e CI. | Python, Flask, SQLite, pytest, GitHub Actions |
 
 ## 🎯 Em foco agora
