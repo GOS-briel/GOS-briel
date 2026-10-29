@@ -25,7 +25,7 @@ Também sou atleta paralímpico do arremesso de peso e lançamento de disco, e u
 
 | Projeto | O que é | Stack |
 |---|---|---|
-| [Finanças App](https://github.com/GOS-briel/Finan-as-app) | Controle financeiro pessoal: importa fatura em PDF, aprende categorias e controla tetos por categoria. API REST documentada, 20+ decisões registradas em ADRs, cobertura de testes ≥ 80% e CI. | Python, Flask, SQLite, pytest, GitHub Actions |
+| [Finanças App](https://github.com/GOS-briel/financas-app) | Controle financeiro pessoal: importa fatura em PDF, aprende categorias e controla tetos por categoria. API REST documentada, 20+ decisões registradas em ADRs, cobertura de testes ≥ 80% e CI. | Python, Flask, SQLite, pytest, GitHub Actions |
 
 ## 🎯 Em foco agora
 
