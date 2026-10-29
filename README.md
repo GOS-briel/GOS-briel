@@ -1,36 +1,43 @@
-<h1 align="center">👋 Olá, eu sou Gabriel de Oliveira Silva !</h1>
+# Olá, eu sou o Gabriel 👋
 
-<p align="center">
-  🚀 Analista de Redes Junior (Em Desenvolvimento)  |   🎓 Programador Back End (Em Desenvolivimento)
-</p>
+**Dados · Automação com IA · Atleta Paralímpico**
 
----
+Trabalho com dados de atendimento ao cliente em grande volume e transformo processos manuais em fluxos automatizados com Python e IA: menos tempo copiando planilha, mais tempo analisando. Estudo Análise e Desenvolvimento de Sistemas e meu objetivo é unir dados, IA e esporte.
 
-## 🌎 Sobre mim  
-💻  Suporte de redes JR (Em Desenvolvimento)
-🎓 Estudande de Programação e Redes
-📍 Baseada em Niterói, RJ , Brasil.  
+Também sou atleta paralímpico do arremesso de peso e lançamento de disco, e uso meus próprios treinos como laboratório de análise de dados esportivos.
 
-💬 **Vamos conectar?** Me encontre no [LinkedIn](https://www.linkedin.com/in/gabriel-de-oliveira-silva-39086b18b/) ou entre em contato por [Email](mailto:gabriel@innover.pro).  
+📍 Niterói, RJ · 🔗 [LinkedIn](https://www.linkedin.com/in/gabriel-de-oliveira-silva-39086b18b/) · ✉️ [gosrjbr@gmail.com](mailto:gosrjbr@gmail.com)
 
 ---
 
-## 🛠️ Habilidades e Ferramentas  
-### 🔹 **Suporte ao usuário**  
-### 🔹 **Formatação Windows e Linux** 
-### 🔹 **Linguagem de Programação Java - Iniciante** 
+## 🛠️ O que eu faço
+
+- **Automação de relatórios:** pipelines que pegam dados de e-mail, planilhas e CRM, tratam com Python/pandas e entregam relatórios HTML executivos prontos, sem intervenção manual.
+- **Dashboards e análise de dados:** painéis interativos com KPIs, rankings e tendências (Python + Plotly + HTML).
+- **Desenvolvimento com IA:** construo com Claude Code, usando decisões documentadas (ADRs), testes automatizados e CI.
+- **Back-end:** APIs REST em Python (Flask) e Java (Spring).
+
+## 🧰 Stack
+
+`Python` `pandas` `Flask` `pytest` `SQL / SQLite` `Plotly` `HTML/CSS/JS` `Java` `Spring` `VBA` `Git` `GitHub Actions` `Claude Code`
+
+## 📌 Projetos em destaque
+
+| Projeto | O que é | Stack |
+|---|---|---|
+| [Finanças App](https://github.com/GOS-briel/Finan-as-app) | Controle financeiro pessoal: importa fatura em PDF, aprende categorias e controla tetos por categoria. API REST documentada, 20+ decisões registradas em ADRs, cobertura de testes ≥ 80% e CI. | Python, Flask, SQLite, pytest, GitHub Actions |
+
+## 🎯 Em foco agora
+
+- **Agentes de IA** que executam tarefas de ponta a ponta, não só respondem perguntas
+- **Automação de fluxos de dados:** da fonte bruta ao relatório pronto, sem passo manual
+- **Análise de dados aplicada ao esporte**, começando pelo meu próprio desempenho no arremesso
+
+## 🎓 Formação
+
+- **Análise e Desenvolvimento de Sistemas** (tecnólogo), em andamento
+- **Back End Java**, Ada Tech / Mercado Livre
+
 ---
 
-## 🚀 **Projeto profissionais atuais:** 
-
-### **Trainee | Innover BR** *(Abr 2024 - Presente)*  
-
-
-
-## 🎓 Certificações  
-🎖 **Suporte TI do Google**  
-
-
----
-💡 **Gostou do meu trabalho?** Me convide para projetos Open Source ou me recomende no [LinkedIn](https://www.linkedin.com/in/gabriel-de-oliveira-silva-39086b18b/)! 🚀  
-
+💬 Aberto a conversas sobre dados, automação com IA e análise esportiva.
